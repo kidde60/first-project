@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> First Project.
 
 
 ## Built With
@@ -13,7 +13,6 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -52,19 +51,13 @@ Install your favorite Text Editor
 
 
 
-## Authors
+## Author
 
 👤 **Kidde George William**
 
 - GitHub: [@githubhandle](https://github.com/kidde60)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/george-william-kidde-b5b772231/)
 
 ## 🤝 Contributing
 
