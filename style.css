@@ -1,3 +1,5 @@
-h1 {
+.hello {
   text-align: center;
+  margin: 10px;
+  color: blue;
 }
